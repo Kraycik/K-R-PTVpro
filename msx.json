@@ -1,0 +1,12 @@
+{
+  "name": "K-R-PTV Player",
+  "icon": "https://vercel.app",
+  "type": "list",
+  "items": [
+    {
+      "title": "K-R-PTV Başlat",
+      "icon": "https://vercel.app",
+      "action": "link:https://vercel.app"
+    }
+  ]
+}
